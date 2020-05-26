@@ -7,4 +7,9 @@ If you python -m pip install django in China, chances are you run into error mes
 Consider douban
 pip install django  -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com
 
+source env/bin/activate each time you return to your project
+
+python manage.py runserver
+
+
 To be continued
